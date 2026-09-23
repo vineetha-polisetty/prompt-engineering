@@ -1,2 +1,2 @@
-This file was added during CLI Git practice. I dont know to say this but I love cats LOL
-Learning clone, pull, commit, and push.
+"This file was added during CLI Git practice. I dont know to say this but I love cats LOL" 
+"Learning clone, pull, commit, and push." 
