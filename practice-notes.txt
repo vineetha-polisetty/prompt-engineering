@@ -1,2 +1,1 @@
-"This file was added during CLI Git practice. I dont know to say this but I love cats LOL" 
-"Learning clone, pull, commit, and push." 
+"Thid file was added during CLI git practice. I am modifying and checking the data of branch and the file."
